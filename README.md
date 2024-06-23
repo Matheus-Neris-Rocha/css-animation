@@ -45,7 +45,10 @@ Este repositório contém um exemplo prático de como utilizar animações em CS
 2. Abra o arquivo `index.html` em um navegador da web.
 3. Explore o exemplo de animação implementado.
 
-## Link do projeto
+## Imagem do projeto
+
+<img width="1318" alt="Captura de Tela 2024-06-23 às 14 28 02" src="https://github.com/Matheus-Neris-Rocha/css-animation/assets/171521660/35ab2a2b-a1a5-4166-a036-9a008dce9441">
+
 
 
 
